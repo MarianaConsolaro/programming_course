@@ -2,7 +2,8 @@
 
 My name is Mariana Consolaro and I'm a Jr Java Developer. 
 
-[![Linkedin: mariana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-consolaro/)](https://[www.linkedin.com/in/mariana-consolaro/])
+[![Linkedin: mariana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-consolaro/)](https://www.linkedin.com/in/mariana-consolaro/)
+
 
 ## ⚡ Technologies
 
