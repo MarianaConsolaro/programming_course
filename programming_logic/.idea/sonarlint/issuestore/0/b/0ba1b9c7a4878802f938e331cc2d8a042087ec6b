@@ -1,5 +1,16 @@
 
-@
-java:S3457	"%String contains no format specifiers.(Šª„ıÿÿÿÿ
-E	java:S106	"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(·ÉÄ¡ÿÿÿÿÿ8Ğà»¶‹2
+G	java:S106"+Replace this use of System.out by a logger.(Éê—8Ğà»¶‹2
+L	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8Ñà»¶‹2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(©Ï²ëøÿÿÿÿ8Ñà»¶‹2
+L	java:S106"+Replace this use of System.out by a logger.(©Ï²ëøÿÿÿÿ8Ñà»¶‹2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(œ«®¢ÿÿÿÿÿ8Òà»¶‹2
+L	java:S106"+Replace this use of System.out by a logger.(œ«®¢ÿÿÿÿÿ8Òà»¶‹2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(œ«®¢ÿÿÿÿÿ8Òà»¶‹2
+L	java:S106"+Replace this use of System.out by a logger.(œ«®¢ÿÿÿÿÿ8Òà»¶‹2
+L	java:S106"+Replace this use of System.out by a logger.(±â¯©şÿÿÿÿ8Óà»¶‹2
+L	java:S106"+Replace this use of System.out by a logger.(ÜŒÀËıÿÿÿÿ8Óà»¶‹2
+L	java:S106"+Replace this use of System.out by a logger.(µ—¢½ûÿÿÿÿ8Óà»¶‹2
